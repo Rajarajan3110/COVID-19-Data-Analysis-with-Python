@@ -1,0 +1,2 @@
+# COVID-19-Data-Analysis-with-Python
+In this project i used to work with COVID19 dataset, published by John Hopkins University, which consist of the data related to cumulative number of confirmed cases, per day, in each Country. Also i had another dataset consist of various life factors, scored by the people living in each country around the globe. i have merged these two datasets to see the relationship between the spread of the virus in a country.
